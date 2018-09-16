@@ -1,4 +1,5 @@
 
 Ce fichier contient le code du jeu.  Il utilise les objets joueur, plateau et pioche. 
 
+Ce fichier implemente les deux regles du jeu: version simple et complexe. 
 
